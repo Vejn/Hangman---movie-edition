@@ -3,6 +3,7 @@ import random
 import hangman_functions
 
 # Printing introduction
+print("Welcome to the Hangman game!)
 
 # Creating movie pool
 mov_pool = ["Dune", "Pulp Fiction", "The Godfather", "The Lord Of the Rings", "The Shawshank Redemption", "Fight Club",
