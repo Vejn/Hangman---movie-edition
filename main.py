@@ -1,6 +1,6 @@
 # Welcome to Hangman game - can you guess the name of the movie? (Only movie titles)
 import random
-import hangman_functions
+import hangman_art
 
 # Printing introduction
 print("Welcome to the Hangman game!)
